@@ -65,6 +65,12 @@
  * References:
  * [1] https://pixinsight.com/forum/index.php?threads/pjsr-any-access-to-the-history.6349/
  */
+
+#feature-id    Utilities > ReproduciblePI
+
+#feature-info  A simple code generator to aid in PixInsight reproducibility.
+
+
 var generateFileOpening = false;
 var generateProcessSource = false;
 
